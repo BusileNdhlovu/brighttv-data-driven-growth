@@ -1,5 +1,3 @@
-# brighttv-data-driven-growth
- BrightTV Viewership Analytics: A case study analyzing user trends, consumption patterns, and growth strategies to enhance subscription engagement and retention.
  <h1 style="font-size:40px;"> 📊 BrightTV (Viewership Analytics) Case Study </h1>
  
  <h2 style="font-size:40px;"> 🌟 Project Overview  </h2>
