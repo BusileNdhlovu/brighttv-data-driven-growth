@@ -73,6 +73,4 @@
  
  Feel free to reach out for questions, collaboration, or feedback:
  
- 📞 Cell: 064 640 0848
- 
  📧 Email: busindhlovu21@gmail.com
